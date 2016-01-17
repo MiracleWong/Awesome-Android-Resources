@@ -6,6 +6,9 @@ Awesome-Android-Resources——学习Android之路上总结的优秀的Android�
 - [《Android Studio使用技巧系列教程（一）》](http://blog.csdn.net/growth58/article/details/46729803)
 - [《Android Studio使用技巧系列教程（二）》](http://blog.csdn.net/growth58/article/details/46764575)
 - [《Android Studio使用技巧系列教程（三）》](http://blog.csdn.net/growth58/article/details/46787737)
+- [拥抱 Android Studio 之一：从 ADT 到 Android Studio](http://kvh.io/2015/12/01/embrace-android-studio-migration/)
+- [拥抱 Android Studio 之二：Android Studio 与 Gradle 深入](http://kvh.io/2015/12/17/embrace-android-studio-indepth/)
+- [拥抱 Android Studio 之三：溯源，Groovy 与 Gradle 基础](http://kvh.io/2016/01/04/embrace-android-studio-groovy-gradle/)
 
 ## Apk瘦身
 
@@ -19,6 +22,9 @@ Awesome-Android-Resources——学习Android之路上总结的优秀的Android�
 - [Android-Tips](https://github.com/tangqi92/Android-Tips)
 - [AndroidTips](https://github.com/JohnTsaiAndroid/AndroidTips)
 
+
+## 自定义View
+- [View和ViewGroup的完全解析](http://leoray.leanote.com/post/view-source-code)
 
 ##  开源库对比类系列博文
 
