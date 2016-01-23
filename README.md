@@ -14,9 +14,16 @@ Awesome-Android-Resources——学习Android之路上总结的优秀的Android�
 
 ## 编程规范
 
-- [Android编程规范](http://www.jianshu.com/p/9b8aeca9b281?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+- [Android编程规范](http://www.jianshu.com/p/9b8aeca9b281?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 ## Gradle
+- [Gradle for Android 第一篇(从Gradle和AS开始)](https://segmentfault.com/a/1190000004229002)
+- [Gradle for Android 第二篇(Build.gradle入门)](https://segmentfault.com/a/1190000004234712)
+- [Gradle for Android 第三篇(依赖管理)](https://segmentfault.com/a/1190000004237922)
+- [Gradle for Android 第四篇(构建版本)](https://segmentfault.com/a/1190000004241503)
+- [Gradle for Android 第五篇(多模块构建)](https://segmentfault.com/a/1190000004247809)
+- [Gradle for Android 第六篇(测试)](https://segmentfault.com/a/1190000004260141)
+- [Gradle for Android 第七篇(Groovy入门)](https://segmentfault.com/a/1190000004276167)
 
 ## 相似的Andorid Tips的Repositories
 - [Android-Tips](https://github.com/tangqi92/Android-Tips)
