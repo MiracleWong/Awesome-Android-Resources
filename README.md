@@ -25,7 +25,15 @@ Awesome-Android-Resources——学习Android之路上总结的优秀的Android�
 
 ## 自定义View
 - [View和ViewGroup的完全解析](http://leoray.leanote.com/post/view-source-code)
+- [自定义组件最详细实例讲解（7步实现自定义ViewGroup）](http://leoray.leanote.com/post/viewgroup-custom)
+- [Android绘制流程](http://yq.aliyun.com/articles/3005)
 
 ##  开源库对比类系列博文
 
 - [Volley与Picasso的对比](http://blog.happyhls.me/2014/11/27/volley%E4%B8%8Epicasso%E7%9A%84%E5%AF%B9%E6%AF%94/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+## 项目实战
+- [从零开始搭建架构实施Android项目](http://www.cnblogs.com/lao-liang/p/5122425.html?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+## 自学之路
+- [Android自学之路](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402135493&idx=1&sn=c2e040f95551082cbe2bdf7182dc3e9f#rd)
