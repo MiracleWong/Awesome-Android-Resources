@@ -9,8 +9,14 @@ Awesome-Android-Resources——学习Android之路上总结的优秀的Android�
 - [拥抱 Android Studio 之一：从 ADT 到 Android Studio](http://kvh.io/2015/12/01/embrace-android-studio-migration/)
 - [拥抱 Android Studio 之二：Android Studio 与 Gradle 深入](http://kvh.io/2015/12/17/embrace-android-studio-indepth/)
 - [拥抱 Android Studio 之三：溯源，Groovy 与 Gradle 基础](http://kvh.io/2016/01/04/embrace-android-studio-groovy-gradle/)
+- [Android最佳实战(一)](https://segmentfault.com/a/1190000004357190)
+- [如何使用Android Studio把自己的Android library分享到jCenter和Maven Central](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0623/3097.html)
+
+## Android 教程
+- [Android官方培训课程（中文版））](http://hukai.me/android-training-course-in-chinese/index.html)
 
 ## Apk瘦身
+- [【个人总结】APK瘦身总结](http://www.jayfeng.com/2015/12/29/APK%E7%98%A6%E8%BA%AB%E5%AE%9E%E8%B7%B5/)
 
 ## 编程规范
 
