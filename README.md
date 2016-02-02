@@ -41,6 +41,9 @@ Awesome-Android-Resources——学习Android之路上总结的优秀的Android�
 - [自定义组件最详细实例讲解（7步实现自定义ViewGroup）](http://leoray.leanote.com/post/viewgroup-custom)
 - [Android绘制流程](http://yq.aliyun.com/articles/3005)
 
+## Window
+- [浅析Android的窗口](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=555&fromuid=6)
+
 ##  开源库对比类系列博文
 
 - [Volley与Picasso的对比](http://blog.happyhls.me/2014/11/27/volley%E4%B8%8Epicasso%E7%9A%84%E5%AF%B9%E6%AF%94/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
