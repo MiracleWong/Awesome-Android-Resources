@@ -18,6 +18,9 @@ Awesome-Android-Resources——学习Android之路上总结的优秀的Android�
 ## Apk瘦身
 - [【个人总结】APK瘦身总结](http://www.jayfeng.com/2015/12/29/APK%E7%98%A6%E8%BA%AB%E5%AE%9E%E8%B7%B5/)
 
+## 测试框架
+- [Android单元测试框架Robolectric3.0介绍](http://www.jianshu.com/p/9d988a2f8ff7)
+
 ## 编程规范
 
 - [Android编程规范](http://www.jianshu.com/p/9b8aeca9b281?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
@@ -30,6 +33,10 @@ Awesome-Android-Resources——学习Android之路上总结的优秀的Android�
 - [Gradle for Android 第五篇(多模块构建)](https://segmentfault.com/a/1190000004247809)
 - [Gradle for Android 第六篇(测试)](https://segmentfault.com/a/1190000004260141)
 - [Gradle for Android 第七篇(Groovy入门)](https://segmentfault.com/a/1190000004276167)
+
+## 读书笔记
+- [落地——读《App研发录》](http://www.jianshu.com/p/ea48332c82af)
+
 
 ## 相似的Andorid Tips的Repositories
 - [Android-Tips](https://github.com/tangqi92/Android-Tips)
@@ -53,3 +60,7 @@ Awesome-Android-Resources——学习Android之路上总结的优秀的Android�
 
 ## 自学之路
 - [Android自学之路](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402135493&idx=1&sn=c2e040f95551082cbe2bdf7182dc3e9f#rd)
+
+
+## 最佳实战
+- [Android 开发最佳实战](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md)
