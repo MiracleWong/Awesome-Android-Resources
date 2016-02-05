@@ -37,6 +37,10 @@ Awesome-Android-Resources——学习Android之路上总结的优秀的Android�
 ## 读书笔记
 - [落地——读《App研发录》](http://www.jianshu.com/p/ea48332c82af)
 
+## ORM
+- [ORM框架之greenDAO使用心得](http://itangqi.me/2015/07/26/orm-greendao-summary/)
+- [greenDao数据库升级解决方案](http://blog.csdn.net/growth58/article/details/50453038)
+
 
 ## 相似的Andorid Tips的Repositories
 - [Android-Tips](https://github.com/tangqi92/Android-Tips)
