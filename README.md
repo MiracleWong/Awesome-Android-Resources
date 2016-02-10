@@ -68,3 +68,6 @@ Awesome-Android-Resources——学习Android之路上总结的优秀的Android�
 
 ## 最佳实战
 - [Android 开发最佳实战](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md)
+
+## 开发者博客汇总
+- [Android开发者博客汇总](https://github.com/CodingFish2015/Android-Developer-Blog-Rss) 
