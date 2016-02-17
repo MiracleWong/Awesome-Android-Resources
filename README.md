@@ -3,14 +3,21 @@ Awesome-Android-Resources——学习Android之路上总结的优秀的Android�
 
 ## Android Studio
 
-- [《Android Studio使用技巧系列教程（一）》](http://blog.csdn.net/growth58/article/details/46729803)
-- [《Android Studio使用技巧系列教程（二）》](http://blog.csdn.net/growth58/article/details/46764575)
-- [《Android Studio使用技巧系列教程（三）》](http://blog.csdn.net/growth58/article/details/46787737)
 - [拥抱 Android Studio 之一：从 ADT 到 Android Studio](http://kvh.io/2015/12/01/embrace-android-studio-migration/)
 - [拥抱 Android Studio 之二：Android Studio 与 Gradle 深入](http://kvh.io/2015/12/17/embrace-android-studio-indepth/)
 - [拥抱 Android Studio 之三：溯源，Groovy 与 Gradle 基础](http://kvh.io/2016/01/04/embrace-android-studio-groovy-gradle/)
 - [Android最佳实战(一)](https://segmentfault.com/a/1190000004357190)
 - [如何使用Android Studio把自己的Android library分享到jCenter和Maven Central](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0623/3097.html)
+
+## Android Studio技巧
+
+- [《Android Studio使用技巧系列教程（一）》](http://blog.csdn.net/growth58/article/details/46729803)
+- [《Android Studio使用技巧系列教程（二）》](http://blog.csdn.net/growth58/article/details/46764575)
+- [《Android Studio使用技巧系列教程（三）》](http://blog.csdn.net/growth58/article/details/46787737)
+- [Android Studio 小技巧合集](http://laobie.github.io/android/2016/02/14/android-studio-tips.html)
+- [AS技巧合集「常用技巧篇」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=1&sn=a8fd70a65ff3973758e4a7975c361139#rd)
+- [AS技巧合集「编码技巧篇」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=2&sn=136e2a77c9bdd2cf971143d7f35e57d2#rd)
+- [AS技巧合集「调试技巧篇」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402416974&idx=3&sn=3a0f99a753e7e8372cb98b696542d2cb#rd)
 
 ## Android 教程
 - [Android官方培训课程（中文版））](http://hukai.me/android-training-course-in-chinese/index.html)
@@ -70,4 +77,4 @@ Awesome-Android-Resources——学习Android之路上总结的优秀的Android�
 - [Android 开发最佳实战](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md)
 
 ## 开发者博客汇总
-- [Android开发者博客汇总](https://github.com/CodingFish2015/Android-Developer-Blog-Rss) 
+- [Android开发者博客汇总](https://github.com/CodingFish2015/Android-Developer-Blog-Rss)
