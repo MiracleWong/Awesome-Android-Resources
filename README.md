@@ -53,6 +53,8 @@ Awesome-Android-Resources——学习Android之路上总结的优秀的Android�
 - [Android-Tips](https://github.com/tangqi92/Android-Tips)
 - [AndroidTips](https://github.com/JohnTsaiAndroid/AndroidTips)
 
+## View
+- [深入理解LayoutInflater.inflate()](http://blog.chengdazhi.com/index.php/110)
 
 ## 自定义View
 - [View和ViewGroup的完全解析](http://leoray.leanote.com/post/view-source-code)
