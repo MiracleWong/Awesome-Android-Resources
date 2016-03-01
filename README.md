@@ -22,6 +22,9 @@ Awesome-Android-Resources——学习Android之路上总结的优秀的Android�
 ## Android 教程
 - [Android官方培训课程（中文版））](http://hukai.me/android-training-course-in-chinese/index.html)
 
+## Android源码分析
+- [BottomSheets源码解析](https://github.com/android-cjj/BottomSheets/blob/master/README.md)
+
 ## Apk瘦身
 - [【个人总结】APK瘦身总结](http://www.jayfeng.com/2015/12/29/APK%E7%98%A6%E8%BA%AB%E5%AE%9E%E8%B7%B5/)
 
@@ -83,3 +86,9 @@ Awesome-Android-Resources——学习Android之路上总结的优秀的Android�
 
 ## 开发者博客汇总
 - [Android开发者博客汇总](https://github.com/CodingFish2015/Android-Developer-Blog-Rss)
+
+## 源码分析
+
+
+## Android入门
+- [Android 开发入门指南](http://blog.zhanghai.me/android-developer-guide/)
